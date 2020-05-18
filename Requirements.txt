@@ -1,0 +1,21 @@
+REQUIREMENTS:
+python 
+tkinter --> tkinter is installed default on python 3 or upper 
+selenium 
+you can install selenium by following command:
+pip install selenium 
+
+webdriver 
+you need a webdriver for your browser 
+
+link for downloading webdriver of Chrome download by your chrome version:
+https://chromedriver.chromium.org/downloads
+
+### I have chrome driver version 80.0.3987.106 in this file and if 
+you have another version of chrome you can download it by above link but you should delete my 
+webdriver chrome
+
+
+
+
+
